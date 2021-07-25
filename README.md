@@ -31,7 +31,7 @@ Artificial intelligence (AI) has the potential to help clinicians care for patie
 Clone the project
 
 ```bash
-  git clone https://github.com/JoelJJoseph/HACKY.git
+  git clone https://github.com/JoelJJoseph/Bright.git
 ```
 - Install PHP and Xampp on system
 - Run Apache and Mysql server from Xampp controls
